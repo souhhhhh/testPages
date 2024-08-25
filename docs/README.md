@@ -1,1 +1,1 @@
-# React + Vite + RTK Query + Redux Toolkit + Tailwind + Reduz-persist
+# React + Vite + RTK Query + Redux Toolkit + Tailwind + Redux-persist
